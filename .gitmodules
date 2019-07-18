@@ -1,0 +1,18 @@
+[submodule "nice"]
+	path = nice
+	url = https://github.com/TwDemosDDrace/nice
+[submodule "funny"]
+	path = funny
+	url = https://github.com/TwDemosDDrace/funny
+[submodule "ddr3"]
+	path = ddr3
+	url = https://github.com/TwDemosDDrace/ddr3
+[submodule "ddr"]
+	path = ddr
+	url = https://github.com/TwDemosDDrace/ddr
+[submodule "bad3"]
+	path = bad3
+	url = https://github.com/TwDemosDDrace/bad3
+[submodule "bad2"]
+	path = bad2
+	url = https://github.com/TwDemosDDrace/bad2
